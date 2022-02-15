@@ -2,8 +2,13 @@
 content_type: resource
 description: Supporting document for a group project to negotiate a deal with a local
   venture capitalist.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-391-early-stage-capital-fall-2010/d7d41175fb17fa949dfa2cf4feb666c7_MIT15_391F10_assn2_facts.pdf
+file: /media/courses/15-391-early-stage-capital-fall-2010/d7d41175fb17fa949dfa2cf4feb666c7_MIT15_391F10_assn2_facts.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Fact Pattern: MIT/FIT Corporation'
 uid: d7d41175-fb17-fa94-9dfa-2cf4feb666c7
