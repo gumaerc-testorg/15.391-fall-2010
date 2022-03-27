@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bf4434d6-8549-74e9-b16d-c8279a53c915
 resourcetype: Document
 title: Dow Jones Venture Capital Deal Terms Report
 uid: a445e7b5-e933-5eb3-b678-6b9784be8148

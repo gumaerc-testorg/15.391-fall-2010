@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 036bd066-d175-17e5-05c6-a9e0424c1a8a
 resourcetype: Document
 title: 'Fact Pattern: MIT/FIT Corporation'
 uid: d7d41175-fb17-fa94-9dfa-2cf4feb666c7

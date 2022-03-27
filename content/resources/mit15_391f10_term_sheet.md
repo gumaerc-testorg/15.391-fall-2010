@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 036bd066-d175-17e5-05c6-a9e0424c1a8a
 resourcetype: Document
 title: Term Sheet
 uid: 9f7369c6-eaed-b11a-bb94-801497d7ee4d

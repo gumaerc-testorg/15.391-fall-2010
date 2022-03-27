@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 036bd066-d175-17e5-05c6-a9e0424c1a8a
 resourcetype: Document
 title: Intra-Team Evaluation
 uid: 5a106f36-996f-ea03-2f1f-6a5aeba1621e

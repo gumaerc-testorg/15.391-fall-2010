@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 036bd066-d175-17e5-05c6-a9e0424c1a8a
 resourcetype: Document
 title: Sample Strategic Internal Agenda
 uid: af54e51b-afa2-96dc-ace8-195ddf0161ab
