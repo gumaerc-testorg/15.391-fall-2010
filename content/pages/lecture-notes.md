@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, short descriptions
+  of each lecture, and selected lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ DESCRIPTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introductory class: logistics ([PDF]({{< baseurl >}}/resources/mit15_391f10_lec01))
+Introductory class: logistics ({{% resource_link 1d74f28b-1bb9-3851-bf54-065a81ba20a0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Discussion of the syllabus, course goals and structure. Explanation of the simulation rounds. All deliverables will be discussed in detail. Discussion of pre-class lunches with guests.
@@ -42,7 +44,7 @@ Discussion of the syllabus, course goals and structure. Explanation of the simul
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Term sheets 101 ([PDF]({{< baseurl >}}/resources/mit15_391f10_lec02))
+Term sheets 101 ({{% resource_link bdf01e1a-1e44-145d-6365-f232557b0e34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 This is a ground floor, introductory class on term sheet jargon and basic legal concepts. The lecture assumes no prior experience in venture finance. The goal is to get everyone to a low common denominator of understanding that we can then build on. Time will be allocated to finalize team formation.
@@ -92,7 +94,7 @@ This session will center around the "A Round" investment process, from the persp
 {{< tdopen >}}
 
 
-Search funds: introduction to a different kind of early stage capital ([PDF]({{< baseurl >}}/resources/mit15_391f10_lec05))
+Search funds: introduction to a different kind of early stage capital ({{% resource_link 549db577-cae3-60c7-c4db-45c762a7bb61 "PDF" %}})
 
 Guest: David Brown, Partner, Choate Hall & Stewart
 
@@ -172,7 +174,7 @@ Jeff is a very successful entrepreneur turned very successful VC. In connection 
 {{< tdopen >}}
 
 
-Emerging market VC: it's what's next ([PDF]({{< baseurl >}}/resources/mit15_391f10_lec10))
+Emerging market VC: it's what's next ({{% resource_link 2dcfcb4b-ea75-85f2-4864-b21129d4f7ad "PDF" %}})
 
 Guest: Simon Olson, FIR Capital
 
