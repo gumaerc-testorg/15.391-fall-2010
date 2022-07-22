@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the three course projects and an
+  intra-team evaluation exercise.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 036bd066-d175-17e5-05c6-a9e0424c1a8a
 ---
@@ -46,7 +51,7 @@ FILES
 Find a lawyer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_391f10_assn1))
+({{% resource_link 38565668-a927-5852-40a1-e0cdd8a16b3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,11 +65,11 @@ Lawyer strategy round
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2))
+({{% resource_link e00766ed-197d-ea93-cf01-3b32cac20b23 "PDF" %}})
 
-MIT/FIT fact pattern ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2_facts))
+MIT/FIT fact pattern ({{% resource_link d7d41175-fb17-fa94-9dfa-2cf4feb666c7 "PDF" %}})
 
-Term sheet ([PDF]({{< baseurl >}}/resources/mit15_391f10_term_sheet))
+Term sheet ({{% resource_link 9f7369c6-eaed-b11a-bb94-801497d7ee4d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -78,7 +83,7 @@ Term sheet ([PDF]({{< baseurl >}}/resources/mit15_391f10_term_sheet))
 VC negotiation round
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_391f10_assn3))
+({{% resource_link 4df9c0b1-f548-4a27-d9e1-2853b2e9ac6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ VC negotiation round
 Team evaluation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_391f10_eval))
+({{% resource_link 5a106f36-996f-ea03-2f1f-6a5aeba1621e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
