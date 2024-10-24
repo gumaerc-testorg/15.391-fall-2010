@@ -2,7 +2,7 @@
 content_type: resource
 description: Venture capital deal terms report for the 12-month period from July 2006
   through June 2007.
-file: /courses/15-391-early-stage-capital-fall-2010/a445e7b5e9335eb3b6786b9784be8148_MIT15_391F10_VC_Report.pdf
+file: /ol-ocw-studio-app/courses/15-391-early-stage-capital-fall-2010/a445e7b5e9335eb3b6786b9784be8148_MIT15_391F10_VC_Report.pdf
 file_size: 2294134
 file_type: application/pdf
 learning_resource_types:
