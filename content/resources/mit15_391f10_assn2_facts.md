@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting document for a group project to negotiate a deal with a local
   venture capitalist.
-file: /courses/15-391-early-stage-capital-fall-2010/d7d41175fb17fa949dfa2cf4feb666c7_MIT15_391F10_assn2_facts.pdf
+file: /ol-ocw-studio-app/courses/15-391-early-stage-capital-fall-2010/d7d41175fb17fa949dfa2cf4feb666c7_MIT15_391F10_assn2_facts.pdf
 file_size: 205892
 file_type: application/pdf
 learning_resource_types:
